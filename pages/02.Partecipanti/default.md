@@ -34,6 +34,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |rglauco| Glauco | Rampogna | Comune di Preganziol | |
 |sickness| Diego | Righi | Unione delle Terre d'Argine | |
 |router365| Luca | Robusto | Arpitel | |
+|[gsalerno](https://t.me/gsalerno) | Gianluigi | Salerno |[Telnet](https://www.telnet.it)| [AS5392](https://as5392.peeringdb.com)|
 |stesasso| Stefano | Sasso | Athonet | |
 |jack| Jakob | Schwienbacher | Telmekom | [AS49088](https://www.telmekom.net) |
 |stucchimax | Massimiliano | Stucchi |Internet Society (isoc.org)| [AS58280](https://as58280.peeringdb.com)|
